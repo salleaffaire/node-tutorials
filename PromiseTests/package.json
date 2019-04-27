@@ -1,0 +1,12 @@
+{
+  "name": "promisetests",
+  "version": "1.0.0",
+  "description": "Various Promise Related Stuff",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "LM",
+  "license": "MIT"
+}
